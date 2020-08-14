@@ -14,6 +14,14 @@ alias flcr="flutter create"
 alias flrp="flutter run --profile"
 alias flrr="flutter run --release"
 
+
+# firebase-tools
+alias fbd="firebase deploy"
+alias fbdf="firebase deploy --only functions"
+alias fbdh="firebase deploy --only hosting"
+alias fbse="firebase emulators:start"
+alias fbie="firebase init emulators"
+
 # VS Code commands
 alias vsc="code ." 
 alias vs="code"
